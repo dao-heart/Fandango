@@ -1,3 +1,5 @@
+# Immitation of Fandango project with MERN stack
+
 ## Go to client and install all the modules and start
 ### 1.cd client
 ### 2.npm install
